@@ -84,7 +84,7 @@ DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
   jekyll-maps!
-  minima (~> 2.5)
+  minima
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
