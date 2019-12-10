@@ -5,4 +5,4 @@
 layout: home
 ---
 
-{% google_map src="_places" width="100%" zoom="10" %}
+{% google_map src="_places" width="100%" height="700" zoom="10" %}
