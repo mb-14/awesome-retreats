@@ -1,4 +1,5 @@
 --- 
+layout: default
 title:  "Ghoomakad"
 location: 
     latitude: 32.198637

@@ -1,4 +1,5 @@
 --- 
+layout: default
 title:  "Bir nest"
 location: 
     latitude: 32.039486
