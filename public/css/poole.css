@@ -377,6 +377,20 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+/*
+ * Retreats
+ */
+
+ .social-links {
+   margin-bottom: 1rem;
+ }
+
+ .social-links span {
+   margin-bottom: 0.3rem;
+   margin-top: 0.3rem;
+   display: inline-block;
+ }
+
 
 /*
  * Pagination
