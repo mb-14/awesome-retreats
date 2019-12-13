@@ -6,4 +6,4 @@ location:
     longitude: 76.326806
 ---
 
-Alt Life - Dharamkot
+The Other Space
