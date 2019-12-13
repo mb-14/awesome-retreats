@@ -2,7 +2,7 @@
 title:            Awesome Retreats
 description:      'Remote co-working and co-living spaces for digital nomads in India'
 url:              ''
-baseurl:          '/awesome-retreats/'
+baseurl:          '/awesome-retreats'
 destination:      docs
 
 author:
