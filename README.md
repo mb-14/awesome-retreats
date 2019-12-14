@@ -4,7 +4,7 @@ Remote co-working and co-living spaces for digital nomads in India
 
 ### Contributing
 
-Add a new retreat by creating a new collection in the `_retreats` directory.
+Add a new retreat by creating a new markdown file in the `_retreats` directory.
 Here is a sample retreat you can use for reference:
 
 ```
