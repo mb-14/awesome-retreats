@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: retreat
 title:  "Bir nest"
 location: 
     latitude: 32.039486
