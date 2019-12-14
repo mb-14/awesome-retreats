@@ -15,8 +15,9 @@ location:
     latitude: 32.039486
     longitude: 76.723324
 links:
-    - instagram: "https://www.instagram.com/birnesthostel"
-    - facebook: "https://www.facebook.com/birnesthostel/"
+    website: "https://birnest.com"
+    instagram: "https://www.instagram.com/birnesthostel"
+    facebook: "https://www.facebook.com/birnesthostel/"
 ---
 
 
