@@ -1,6 +1,7 @@
-# Awesome Retreats
+# Awesome Retreats [![Build Status](https://travis-ci.org/mb-14/awesome-retreats.svg?branch=master)](https://travis-ci.org/mb-14/awesome-retreats)
 
 Remote co-working and co-living spaces for digital nomads in India
+
 
 ### Contributing
 

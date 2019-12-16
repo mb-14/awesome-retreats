@@ -5,6 +5,7 @@ branches:
   - master
 before_install:
   - gem install bundler
+  - bundle config --local build.sassc --disable-march-tune-native
 script:
   - bundle exec jekyll build
 deploy:

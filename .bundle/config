@@ -1,4 +1,5 @@
 ---
+BUNDLE_BUILD__SASSC: "--disable-march-tune-native"
 BUNDLE_RETRY: "3"
 BUNDLE_FROZEN: "true"
 BUNDLE_PATH: "vendor/bundle"

@@ -1,5 +1,5 @@
 current directory: /home/travis/build/mb-14/awesome-retreats/vendor/bundle/ruby/2.5.0/gems/sassc-2.2.1/ext
-/home/travis/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20191216-4572-1sznfwn.rb extconf.rb
+/home/travis/.rvm/rubies/ruby-2.5.3/bin/ruby -r ./siteconf20191216-4646-1hif4y1.rb extconf.rb --disable-march-tune-native
 creating Makefile
 
 current directory: /home/travis/build/mb-14/awesome-retreats/vendor/bundle/ruby/2.5.0/gems/sassc-2.2.1/ext
@@ -72,4 +72,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/travis/build/mb-14/awesome-retreats/vendor/bundle/ruby/2.5.0/gems/sassc-2.2.1/ext
 make "DESTDIR=" install
-/usr/bin/install -m 0755 libsass.so ./.gem.20191216-4572-10eyrx7/sassc
+/usr/bin/install -m 0755 libsass.so ./.gem.20191216-4646-1lqxgfp/sassc
