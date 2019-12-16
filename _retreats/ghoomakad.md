@@ -2,6 +2,9 @@
 layout: retreat
 title:  "Ghoomakad"
 state: Himachal Pradesh
+tags: 
+    - coliving
+    - mountain
 location: 
     latitude: 32.198637
     longitude: 76.366951

@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<div class="home">
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Maps')">Maps</button>
   <button class="tablinks" onclick="openTab(event, 'List')">List</button>
@@ -21,10 +22,15 @@ title: Home
     <a href="{{site.baseurl}}{{ retreat.url }}">
       {{ retreat.title }}
     </a>
+    {% for tag in retreat.tags %}
+      {% assign icon = site.data.tag_icons[tag] %}
+      <span class="ec tags {{ icon }}"></span>
+    {% endfor %}
     <span class="subtext">{{ retreat.state }} </span>
     </b>
     </div>
   </li>
 {% endfor %}
   </ul>
+</div>
 </div>

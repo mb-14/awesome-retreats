@@ -2,6 +2,12 @@
 layout: page
 ---
 
+<div class="retreat">
+{% for tag in page.tags %}
+{% assign icon = site.data.tag_icons[tag] %}
+<span class="ec tags {{ icon }}"></span>
+{% endfor %}
+
 <div class="social-links">
       {% for link in page.links %}
       {% assign key = link[0] %}
@@ -12,3 +18,4 @@ layout: page
 
 {{ content }}
 
+</div>
