@@ -46,7 +46,15 @@
   }
   
 
-.subtext {
+.home .subtext {
     font-size: 0.7em;
     display: block;
   }
+
+.home .tags.ec {
+  float: right;
+}
+
+.retreat .tags.ec {
+  font-size: 1.5rem;
+}
