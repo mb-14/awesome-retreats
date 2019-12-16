@@ -10,11 +10,11 @@ script:
 deploy:
   provider: pages
   local-dir: ./docs
-  target-branch: master
+  target-branch: gh-pages
   email: deploy@travis-ci.org
   name: Deployment Bot
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
   on:
-    branch: gh-pages
+    branch: master
