@@ -12,6 +12,10 @@ Here is a sample retreat you can use for reference:
 --- 
 layout: retreat
 title:  "Bir nest"
+tags: 
+    - coliving
+    - mountain
+state: Himachal Pradesh
 location: 
     latitude: 32.039486
     longitude: 76.723324
@@ -26,6 +30,8 @@ Located in the village of Bir Billing, the Bir Nest hostel is a wonderful haven 
 
 If you're in the mood for some adventure you can try paragliding at Bir - known worldwide - for its paragliding sessions and courses. You can also hike up to Rajgundha for an exhilarating experience in nature or visit the Gunehar village and explore the art culture present there.
 ```
+**Allowed tags**: `coliving` `mountain` `city` `beach`
+**Allowed links**: `facebook` `instagram` `website`
 
 ### Building
 
