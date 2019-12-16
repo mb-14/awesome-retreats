@@ -7,9 +7,10 @@ before_install:
   - gem install bundler
   - bundle config --local build.sassc --disable-march-tune-native
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --destination site
 deploy:
   provider: pages
+  local-dir: ./site
   target-branch: gh-pages
   email: deploy@travis-ci.org
   name: Deployment Bot
