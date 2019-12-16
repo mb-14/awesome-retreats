@@ -12,15 +12,18 @@ title: Home
   {% google_map src="_retreats" width="100%" height="700" zoom="10" %}
 </div>
 
-
 <div id="List" class="tabcontent">
+<ul style="list-style-type:none;">
   {% for retreat in site.retreats %}
-  <p>
+  <li>
+    <div class="card">
+    <b>
     <a href="{{site.baseurl}} {{ retreat.url }}">
       {{ retreat.title }}
     </a>
-  </p>
+    </b>
+    </div>
+  </li>
 {% endfor %}
+  </ul>
 </div>
-
-
