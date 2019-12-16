@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+75d9e08a707ca48793f99cb700ee7bc5be7b8821 refs/heads/feat-jekyll4
+2692f7139712f338bb25fdf4889c935ff8542550 refs/heads/gh-pages
+49420a172d5c60f67917a6b69fd762b363dc0942 refs/heads/gh-pages-src
+ec8ccb9f50fdebe248bff280812d06cb23d0e1e0 refs/heads/master
+2d0910b7bdc6fb643cdb5acfbc3e3dad9dae2c1b refs/tags/v1.0.1
+530852a13a97750fce4fd2c57a80f45772c694c5 refs/tags/v1.0.2
+87e69ab44f3561e73a1d378e6351b02f18610c52 refs/tags/v1.1.0
+cd1eb0334f7bc218709459d80ef6ce56789db8cd refs/tags/v1.1.1
+9194b6264d37154deafc80e99c0e044c812dd568 refs/tags/v1.1.2
+0d97cbaf5b46fa59e9a69a87b587008d09a0faae refs/tags/v1.1.3
+743944f1d789c865a84c773d7e5b0fc0754aed18 refs/tags/v1.1.4
+b930035e7c63f374b6981394d8751340714fdb8a refs/tags/v1.1.5
+d0eab376deecf2073916884c2470a71a2355580b refs/tags/v1.1.6
+875400a81a70c55894635994e2ecaa4f133cef47 refs/tags/v2.0.0
+9c50831fbef588247290f45d18560a67cc7c69b7 refs/tags/v2.0.2
+eeef5616beabcbc3560361fa042f6579d2bb14c3 refs/tags/v2.0.3
+7dfb283a74b2c5d5baab971780f0706714af0784 refs/tags/v2.0.4
+b689dec2c8389deb8ac6e400a7f59df797c182e8 refs/tags/v2.2.0
+18295f2e7592ce1d2b3dc5946e449aaa4e9d2695 refs/tags/v2.3.0

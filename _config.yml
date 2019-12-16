@@ -1,0 +1,31 @@
+# Setup
+title:            Awesome Retreats
+description:      'Remote co-working and co-living spaces for digital nomads in India'
+url:              ''
+baseurl:          '/awesome-retreats'
+
+author:
+  name:           'Miroojin Bakshi'
+  url:            https://github.com/mb-14
+
+github:
+  repo:           https://github.com/mb-14/awesome-retreats
+
+plugins:
+  - jekyll-maps
+
+maps:
+  google:
+    api_key: AIzaSyBtcVUnQGXyKOnnQqkJkqA9EcGPczuLKBs
+
+collections:
+  retreats:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "retreats" # a collection in your site, in plural form
+    values:
+      layout: "page"
