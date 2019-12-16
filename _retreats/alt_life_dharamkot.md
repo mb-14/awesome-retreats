@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: retreat
 title:  "Alt Life - Dharamkot"
 location: 
     latitude: 32.249660
