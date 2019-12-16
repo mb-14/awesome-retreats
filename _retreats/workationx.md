@@ -2,6 +2,9 @@
 layout: retreat
 title:  "WorkationX"
 state: Himachal Pradesh
+tags: 
+    - coliving
+    - mountain
 location: 
     latitude: 32.102032
     longitude: 76.764208
