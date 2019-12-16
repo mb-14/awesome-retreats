@@ -3,7 +3,6 @@ title:            Awesome Retreats
 description:      'Remote co-working and co-living spaces for digital nomads in India'
 url:              ''
 baseurl:          '/awesome-retreats'
-destination:      docs
 
 author:
   name:           'Miroojin Bakshi'

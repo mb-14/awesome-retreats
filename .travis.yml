@@ -9,7 +9,6 @@ script:
   - bundle exec jekyll build
 deploy:
   provider: pages
-  local-dir: ./docs
   target-branch: gh-pages
   email: deploy@travis-ci.org
   name: Deployment Bot
