@@ -10,4 +10,4 @@ links:
     facebook: "https://www.facebook.com/altlifehostel"
 ---
 
-The Alt Life Hostel in Dharamkot offers shared & private accomodation, a cafe and a co-working space.
+The Alt Life Hostel in Dharamkot offers shared & private accommodation, a cafe and a co-working space.

@@ -10,11 +10,11 @@ links:
     facebook: "https://www.facebook.com/ghoomakad.im/"
 ---
 
-Ghoomakad is a co-working and co-living space in the village of Rakkar, in the Kangra disctrict of Himachal Pradesh. It overlooks the beautiful, snow-capped Dhauladhar ranges and is situated in a beautiful and tranquil neigborhood.
+Ghoomakad is a co-working and co-living space in the village of Rakkar, in the Kangra disctrict of Himachal Pradesh. It overlooks the beautiful, snow-capped Dhauladhar ranges and is situated in a tranquil neighborhood.
 
-The community space provides shared and private accomodations in spacious mud houses and treehouses which can be booked for anywhere between a day to a few months. The co-working space is equipped with desks, chairs, a decent broadband internet connection and power backup.
+The community space provides shared and private accommodations in spacious mud houses and tree-houses which can be booked for anywhere between a day to a few months. The co-working space is equipped with desks, chairs, a decent broadband internet connection and power backup.
 
-There are a lot of interesting places you can explore around Ghoomakad. The Norbulingka institute, the Rakkar Helipad and Kharota are some notable ones. If you need a break from the co-working space, you can also choose to work from nearby cafes like the Tunna's Book Cafe or the Blossom's Vilage Resort.
+There are a lot of interesting places you can explore around Ghoomakad. The Norbulingka institute, the Rakkar Helipad and Kharota are some notable ones. If you need a break from the co-working space, you can also choose to work from nearby cafes like the Tunna's Book Cafe or the Blossom's Village Resort.
 
-### Protips:
+### Pro-tips:
 - One of the rooms in the co-living space has a washing machine which is not advertised publicly. Try your luck and see if you can manage to get the room before anyone else does. 
