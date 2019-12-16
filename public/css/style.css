@@ -35,11 +35,11 @@
     display: block;
   }
   
-  ul {
+  .tabcontent ul {
       padding:0;
   }
 
-  li {
+  .tabcontent li {
     border-style: solid;
     padding: 30px 10px;
     margin-bottom:-2px;
