@@ -16,7 +16,7 @@ title: Home
 <div id="List" class="tabcontent">
   {% for retreat in site.retreats %}
   <p>
-    <a href="{{ retreat.url }}">
+    <a href="{{site.baseurl}} {{ retreat.url }}">
       {{ retreat.title }}
     </a>
   </p>
