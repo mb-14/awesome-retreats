@@ -1,0 +1,18 @@
+language: ruby
+cache: bundler
+branches:
+  only:
+  - master
+script:
+  - bundle exec jekyll build
+deploy:
+  provider: pages
+  local-dir: ./docs
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
