@@ -6,7 +6,7 @@ branches:
 before_install:
   - gem install bundler
 script:
-  - bundle exec jekyll build
+  - BUNDLE_BUILD__SASSC=--disable-march-tune-native bundle exec jekyll build
 deploy:
   provider: pages
   target-branch: gh-pages
