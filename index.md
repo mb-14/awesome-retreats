@@ -18,7 +18,7 @@ title: Home
   <li>
     <div class="card">
     <b>
-    <a href="{{site.baseurl}} {{ retreat.url }}">
+    <a href="{{site.baseurl}}{{ retreat.url }}">
       {{ retreat.title }}
     </a>
     </b>
