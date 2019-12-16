@@ -1,6 +1,7 @@
 --- 
 layout: retreat
 title:  "The Other Space"
+state: Himachal Pradesh
 location: 
     latitude: 32.231354
     longitude: 76.326806

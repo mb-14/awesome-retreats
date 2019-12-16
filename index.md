@@ -21,6 +21,7 @@ title: Home
     <a href="{{site.baseurl}}{{ retreat.url }}">
       {{ retreat.title }}
     </a>
+    <span class="subtext">{{ retreat.state }} </span>
     </b>
     </div>
   </li>
