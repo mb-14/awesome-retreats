@@ -31,6 +31,7 @@ Located in the village of Bir Billing, the Bir Nest hostel is a wonderful haven 
 If you're in the mood for some adventure you can try paragliding at Bir - known worldwide - for its paragliding sessions and courses. You can also hike up to Rajgundha for an exhilarating experience in nature or visit the Gunehar village and explore the art culture present there.
 ```
 **Allowed tags**: `coliving` `mountain` `city` `beach`
+
 **Allowed links**: `facebook` `instagram` `website`
 
 ### Building
