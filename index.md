@@ -5,8 +5,8 @@ title: Home
 
 <div class="home">
 <div class="tab">
-  <button class="tablinks active" onclick="openTab(event, 'Maps')">Maps</button>
-  <button class="tablinks" onclick="openTab(event, 'List')">List</button>
+  <button class="tablinks active" onclick="openTab(event, 'List')">List</button>
+  <button class="tablinks" onclick="openTab(event, 'Maps')">Maps</button>
 </div>
 
 <div id="List" class="tabcontent active">
