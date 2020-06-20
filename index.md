@@ -19,8 +19,7 @@ title: Home
       {{ retreat.title }}
     </a>
     {% for tag in retreat.tags %}
-      {% assign icon = site.data.tag_icons[tag] %}
-      <span class="ec tags {{ icon }}"></span>
+      <span>{{site.data.tag_icons[tag]}}</span>
     {% endfor %}
     <span class="subtext">{{ retreat.location.string }} </span>
     </b>

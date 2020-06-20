@@ -4,8 +4,7 @@ layout: page
 
 <div class="retreat">
 {% for tag in page.tags %}
-{% assign icon = site.data.tag_icons[tag] %}
-<span class="ec tags {{ icon }}"></span>
+<span>{{site.data.tag_icons[tag]}}</span>
 {% endfor %}
 
 <div class="social-links">
