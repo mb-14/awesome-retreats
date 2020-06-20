@@ -1,11 +1,11 @@
 --- 
 layout: retreat
 title:  "Bir nest"
-state: Himachal Pradesh
 tags: 
     - coliving
     - mountain
 location: 
+    address: Bir, Himachal Pradesh
     latitude: 32.039486
     longitude: 76.723324
 links:

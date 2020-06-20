@@ -9,11 +9,7 @@ title: Home
   <button class="tablinks" onclick="openTab(event, 'List')">List</button>
 </div>
 
-<div id="Maps" class="tabcontent active">
-  {% google_map src="_retreats" width="100%" height="700" zoom="10" %}
-</div>
-
-<div id="List" class="tabcontent">
+<div id="List" class="tabcontent active">
 <ul style="list-style-type:none;">
   {% for retreat in site.retreats %}
   <li>
@@ -26,11 +22,14 @@ title: Home
       {% assign icon = site.data.tag_icons[tag] %}
       <span class="ec tags {{ icon }}"></span>
     {% endfor %}
-    <span class="subtext">{{ retreat.state }} </span>
+    <span class="subtext">{{ retreat.location.string }} </span>
     </b>
     </div>
   </li>
 {% endfor %}
   </ul>
+</div>
+<div id="Maps" class="tabcontent">
+  {% google_map src="_retreats" width="100%" height="700" zoom="10" %}
 </div>
 </div>

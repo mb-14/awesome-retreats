@@ -1,11 +1,11 @@
 --- 
 layout: retreat
 title:  "Ghoomakad"
-state: Himachal Pradesh
 tags: 
     - coliving
     - mountain
 location: 
+    string: Rakkar, Himachal Pradesh
     latitude: 32.198637
     longitude: 76.366951
 links:

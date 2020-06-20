@@ -1,10 +1,10 @@
 --- 
 layout: retreat
 title:  "The Other Space"
-state: Himachal Pradesh
 tags: 
     - mountain
 location: 
+    string: McLeod Ganj, Himachal Pradesh
     latitude: 32.231354
     longitude: 76.326806
 links:

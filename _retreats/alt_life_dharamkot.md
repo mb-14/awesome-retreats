@@ -1,11 +1,11 @@
 --- 
 layout: retreat
 title:  "Alt Life - Dharamkot"
-state: Himachal Pradesh
 tags: 
     - coliving
     - mountain
 location: 
+    string: Dharamkot, Himachal Pradesh
     latitude: 32.249660
     longitude: 76.328267
 links:

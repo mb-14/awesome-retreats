@@ -1,11 +1,11 @@
 --- 
 layout: retreat
 title:  "WorkationX"
-state: Himachal Pradesh
 tags: 
     - coliving
     - mountain
-location: 
+location:
+    string: Bir, Himachal Pradesh
     latitude: 32.102032
     longitude: 76.764208
 links:
